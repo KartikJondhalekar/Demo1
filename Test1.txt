@@ -1,3 +1,5 @@
 First Git Note
 
 Any change in the doc needs to be staged by git add command
+
+2nd change done
